@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "589434681381",
+    "project_id": "video-streaming-app-cb012",
+    "storage_bucket": "video-streaming-app-cb012.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589434681381:android:4a03413759656ae68527cc",
+        "android_client_info": {
+          "package_name": "com.example.video_streaming_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589434681381-ol7kqrpn2laum15360itpbmh53g6ee44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQkDw7VWLSgdeMkE5Wu4DHxsZdP5riebo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589434681381-33b6p0kcnfh5kanpf5v8ce0uk322r05b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
